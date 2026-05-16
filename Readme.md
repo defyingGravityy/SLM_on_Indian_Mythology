@@ -149,8 +149,8 @@ mixed_precision            = float16 (GPU) / float32 (CPU)
 
 ## Training Results
 
-- **Best validation loss:** *(fill in after your run)*
-- **Final train loss:** *(fill in)*
+- **Best validation loss:*** 3.6639 *
+- **Final train loss:** * 3.5730*
 - Training loss and validation loss curves show consistent decrease across 20,000 steps, with no significant overfitting despite the small domain-specific corpus.
 
 ---
